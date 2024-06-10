@@ -35,7 +35,7 @@ public class Main extends Object{
         stopButton = new JButton("Stop");
         hourlyWageField = new JTextField("1064");
         condition= new JLabel("計測前");
-        ImageIcon icon1 =new ImageIcon("image/baite.jpg");
+        ImageIcon icon1 =new ImageIcon("image/baito.jpg");
         ImageIcon= new JLabel(icon1);
         ImageIcon icon2 =new ImageIcon("image/money.gif");
         
